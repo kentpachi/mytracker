@@ -1,4 +1,4 @@
-var apiUrl = '/api.php';
+var apiUrl = 'http://mytracker.mustaphafodil.com/api.php';
 function getLastPosition(callbackFunc)
 {
 	$.ajax({
