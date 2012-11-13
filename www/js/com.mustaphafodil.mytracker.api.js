@@ -1,4 +1,4 @@
-var apiUrl = 'http://mytracker.localhost/api.php';
+var apiUrl = '/api.php';
 function getLastPosition(callbackFunc)
 {
 	$.ajax({
